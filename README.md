@@ -4,12 +4,11 @@
 Chemical sensing:
 - Novel architectures,
 - Optimized preprocessing
-- Learning from  [Samples Worth Learning](https://arxiv.org/abs/2107.02565){:target="_blank" rel="noopener"}
+- Learning from  [Samples Worth Learning](https://arxiv.org/abs/2107.02565)
 
 ## I'm interested and have ongoing projects in
 - Self-supervised learning
-- Representation learning for natural images
-- Image compression algorithms
+- Representation / image compression learning for natural images
 
 ## Feel to reach out
 On Twitter @alexmooreML

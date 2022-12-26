@@ -10,9 +10,6 @@ Chemical sensing:
 - Self-supervised learning
 - Representation / image compression learning for natural images
 
-## Feel to reach out
-On Twitter @alexmooreML
-
 ## Past work:
 * ACGANs Improve Chemical Sensors for Challenging Distributions
     - **Internatioanl Conference on Machine Learning Applications** 2022

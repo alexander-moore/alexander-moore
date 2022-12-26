@@ -2,13 +2,13 @@
 
 ## I'm currently working on
 Chemical sensing:
-- Novel architectures
+- Novel architectures for multitask learning + early classification of time series
 - Optimized preprocessing
 - Learning from  [Samples Worth Learning](https://arxiv.org/abs/2107.02565)
 
 ## I'm interested and have ongoing projects in
 - Self-supervised learning
-- Representation / image compression learning for natural images
+- Representations of time series
 
 ## Past work:
 * ACGANs Improve Chemical Sensors for Challenging Distributions

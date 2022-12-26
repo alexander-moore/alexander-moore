@@ -11,7 +11,7 @@ Chemical sensing:
 - Representations of time series
 
 ## Past work:
-Sample work on [my page](https://alexander-moore.github.io/)
+Publications and some public projects on [my page](https://alexander-moore.github.io/)
 
 <!--
 **alexander-moore/alexander-moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

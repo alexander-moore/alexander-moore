@@ -11,23 +11,7 @@ Chemical sensing:
 - Representations of time series
 
 ## Past work:
-* ACGANs Improve Chemical Sensors for Challenging Distributions
-    - **Internatioanl Conference on Machine Learning Applications** 2022
-    - Oral presentation and paper
-    
-* [Cycles Improve Conditional Generators](https://github.com/alexander-moore/Cycles-Improve-Conditional-Generators){:target="_blank" rel="noopener"}
-    - **International Conference on Advanced Data Mining and Applications** 2022
-    - Paper and poster
-    
-* [Identifying Strugging Students by Comparing Online Tutor Clickstreams](https://link.springer.com/chapter/10.1007%2F978-3-030-78270-2_52){:target="_blank" rel="noopener"}
-    - **Artificial Intelligence in Education** 2021
-    - Short paper and poster
-    
-* [Model-Agnostic Meta Learning for Remote Sensing](https://github.com/alexander-moore/MAML-Augmentation){:target="_blank" rel="noopener"}
-    - **Deep Learning** Final Project 2021
-
-* [Benchmarking Policy Gradient and DQN-Family Reinforcement Learning Models on Discrete and Continuous Games](https://github.com/alexander-moore/CS525){:target="_blank" rel="noopener"}
-    - **Reinforcement Learning** Final Project 2020
+Sample work on [my page](https://alexander-moore.github.io/)
 
 <!--
 **alexander-moore/alexander-moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

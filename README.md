@@ -8,7 +8,7 @@ Chemical Sensing:
 
 Molecular Representations:
 - [VicReg](https://arxiv.org/abs/2105.04906) over molecular images for augmentation-invariant embeddings
-- [Graph Transformers]([)](https://arxiv.org/abs/2007.02835) over 3D molecular structure for unsupervised property embeddings
+- [Graph Transformers](https://arxiv.org/abs/2007.02835) over 3D molecular structure for unsupervised property embeddings
 
 ## I'm interested and have ongoing projects in
 - Self-supervised learning

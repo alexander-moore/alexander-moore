@@ -14,7 +14,10 @@ Molecular Representations:
 - Self-supervised learning
 - Representations of time series
 
-![results table 2](visuals/pca_t_svc.gif)
+![ChemTime Representation](visuals/pca_t_svc.gif)
+
+![ChemTime Metric](visuals/pair_dist_tar_dist.gif)
+
 
 ## Past work:
 Publications and some public projects on [my page](https://alexander-moore.github.io/)

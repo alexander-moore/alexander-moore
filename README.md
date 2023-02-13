@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## I'm currently working on
 Chemical Sensing:
 - Novel architectures for multitask learning + early classification of time series
@@ -11,8 +9,8 @@ Molecular Representations:
 - [Graph Transformers](https://arxiv.org/abs/2007.02835) over 3D molecular structure for unsupervised property embeddings
 
 ## I'm interested and have ongoing projects in
-- Self-supervised learning
-- Representations of time series
+- Graph contrastive representation learning
+- Sequential representations of time series
 
 ![ChemTime Representation](visuals/pca_t_svc.gif)
 

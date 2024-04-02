@@ -1,3 +1,6 @@
+Postdoctoral Computer Vision Research Scientist at Lawrence Livermore National Laboratory. Personal github account. 
+Interested in transformers for video processing. Two-way attention. Multimodal LLMs. Parameter-efficient fine-tuning.
+
 ## I'm currently working on
 
 Multimodal Large Language Models:
@@ -22,7 +25,6 @@ Molecular Representations:
 
 ![ChemTime Representation](visuals/pca_t_svc.gif)
 
-![ChemTime Metric](visuals/pair_dist_tar_dist.gif)
 
 
 ## Past work:
@@ -32,6 +34,7 @@ Publications and some public projects on [my page](https://alexander-moore.githu
 **alexander-moore/alexander-moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+//%[ChemTime Metric](visuals/pair_dist_tar_dist.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

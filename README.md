@@ -1,17 +1,17 @@
-Postdoctoral Computer Vision Research Scientist at Lawrence Livermore National Laboratory. Personal github account. 
+Postdoctoral Computer Vision :telescope: Research Scientist at [Lawrence Livermore National Laboratory](llnl.gov). Personal github account. 
 
 Interested in transformers for video processing. Two-way attention. Multimodal LLMs. Parameter-efficient fine-tuning.
 
 ## I'm currently working on
 
-Multimodal Large Language Models:
+Multimodal :rocket: Large Language Models:
 - Uploading [code](https://github.com/alexander-moore/vlm) ~~soon~~ for adapting any image transformer and transformer language model into a multimodal-llm (MLLM)
 - Train a custom adapter to link the latent representations of the two token sequences
 - Potentially fine-tune with parameter-efficient fine-tuning (peft, LoRA)
 - Custom training pipeline for bootstrapping text-image pairs into <text, image, text>, <text, image>, <image, text> as an augmentation
 - Hosting as a Gradio or Huggingface space to demo
 
-Chemical Sensing:
+Chemical :rotating_light: Sensing:
 - Novel architectures for multitask learning + early classification of time series
 - Optimized preprocessing
 - Learning from  [Samples Worth Learning](https://arxiv.org/abs/2107.02565)

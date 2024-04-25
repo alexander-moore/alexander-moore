@@ -5,7 +5,7 @@ Interested in transformers for video processing. Two-way attention. Multimodal L
 ## I'm currently working on
 
 Multimodal Large Language Models:
-- Uploading code soon for adapting any image transformer and transformer language model into a multimodal-llm (MLLM)
+- Uploading [code](https://github.com/alexander-moore/vlm) ~~soon~~ for adapting any image transformer and transformer language model into a multimodal-llm (MLLM)
 - Train a custom adapter to link the latent representations of the two token sequences
 - Potentially fine-tune with parameter-efficient fine-tuning (peft, LoRA)
 - Custom training pipeline for bootstrapping text-image pairs into <text, image, text>, <text, image>, <image, text> as an augmentation
